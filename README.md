@@ -6,3 +6,4 @@ The Western Devs like to work a little west of our clients, which means we stron
 - [A list of semi to fully remote-friendly companies in tech](https://github.com/remoteintech/remote-jobs)
 - [Buffer's state of remote work 2019 report](https://buffer.com/state-of-remote-work-2019)
 - [How to work remotely](https://academy.remote-how.com/)
+- [RemoteHub.io](https://remotehub.io/)
