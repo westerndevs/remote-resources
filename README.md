@@ -7,3 +7,4 @@ The Western Devs like to work a little west of our clients, which means we stron
 - [Buffer's state of remote work 2019 report](https://buffer.com/state-of-remote-work-2019)
 - [How to work remotely](https://academy.remote-how.com/)
 - [RemoteHub.io](https://remotehub.io/)
+- [remoteok.io](https://remoteok.io)
