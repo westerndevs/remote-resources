@@ -8,3 +8,4 @@ The Western Devs like to work a little west of our clients, which means we stron
 - [How to work remotely](https://academy.remote-how.com/)
 - [RemoteHub.io](https://remotehub.io/)
 - [remoteok.io](https://remoteok.io)
+- [weworkremotely.com](https://weworkremotely.com/)
